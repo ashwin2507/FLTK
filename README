@@ -1,0 +1,5 @@
+compile:
+
+fltk-config --use-images --compile  mainwindow.cpp
+
+  ./mainwindow
